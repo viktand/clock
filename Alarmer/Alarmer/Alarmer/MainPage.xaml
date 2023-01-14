@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Alarmer.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Часы-будильник" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Настройка времени будильника и синхронизация часов" FontSize="Default" Padding="30,10,30,10"/>
+        <Button Text="Включить будильник" Margin="15" BackgroundColor="LightPink" Clicked="Button_AlarmOn"/>
+        <Button Text="Выключить будильник" Margin="15" BackgroundColor="GreenYellow" Clicked="Button_AlarmOff"/>
+        <Label Text="Время будильника" Margin="15"/>
+        <TimePicker x:Name="piker" Margin="65,0" HorizontalOptions="Center" FontSize="Title"/>
+        <Button Text="Установить время будильника" Margin="15" BackgroundColor="GreenYellow" Clicked="Button_SetAlarm"/>
+        <Button Text="Синхронизация часов" Margin="15" BackgroundColor="GreenYellow"/>
+    </StackLayout>
+    
+
+</ContentPage>

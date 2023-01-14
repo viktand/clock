@@ -1,0 +1,15 @@
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\bin\Debug\netstandard2.0\Alarmer.deps.json
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\bin\Debug\netstandard2.0\Alarmer.dll
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\bin\Debug\netstandard2.0\ref\Alarmer.dll
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\bin\Debug\netstandard2.0\Alarmer.pdb
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\Alarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\Alarmer.AssemblyInfoInputs.cache
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\Alarmer.AssemblyInfo.cs
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\Alarmer.csproj.CoreCompileInputs.cache
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\Alarmer.dll
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\ref\Alarmer.dll
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\Alarmer.pdb
+C:\Users\vikta\source\repos\Alarmer\Alarmer\Alarmer\obj\Debug\netstandard2.0\Alarmer.csproj.AssemblyReference.cache

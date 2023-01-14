@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmer.Android", "Alarmer\Alarmer.Android\Alarmer.Android.csproj", "{B90099EE-CF0B-41E0-85AD-AF084E8FE81E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmer", "Alarmer\Alarmer\Alarmer.csproj", "{3C35F695-4298-48B3-9D3C-ABDD2D4741CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90099EE-CF0B-41E0-85AD-AF084E8FE81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90099EE-CF0B-41E0-85AD-AF084E8FE81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90099EE-CF0B-41E0-85AD-AF084E8FE81E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B90099EE-CF0B-41E0-85AD-AF084E8FE81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90099EE-CF0B-41E0-85AD-AF084E8FE81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90099EE-CF0B-41E0-85AD-AF084E8FE81E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3C35F695-4298-48B3-9D3C-ABDD2D4741CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C35F695-4298-48B3-9D3C-ABDD2D4741CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C35F695-4298-48B3-9D3C-ABDD2D4741CA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3C35F695-4298-48B3-9D3C-ABDD2D4741CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C35F695-4298-48B3-9D3C-ABDD2D4741CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C35F695-4298-48B3-9D3C-ABDD2D4741CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A229FB9-EDAF-48FE-A0CA-55BC0F529217}
+	EndGlobalSection
+EndGlobal
